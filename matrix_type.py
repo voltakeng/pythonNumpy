@@ -47,4 +47,4 @@ arange = np.arange(-7,14,2, dtype=int)
 
 # random matrix 
 random = np.random.random((2,2))
-#print(random)
+print(random)
